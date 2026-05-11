@@ -1,5 +1,3 @@
-# Nairobi-Data-Analyst-Job-Market-Analysis
-Analysis of Data Analyst jobs in Nairobi using Python and Power BI
 # Nairobi Data Analyst Job Market Analysis 2026
 
 **Understanding the current demand for Data Analysts in Nairobi**
